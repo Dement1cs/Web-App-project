@@ -1,0 +1,190 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 8 нояб. 2023 г., 18:54:00
+    Author     : Desktop
+*/
+
+body{
+    background-image: url(img/backPurple9.jpg);
+    font-family: 'Great Vibes', cursive;
+
+}
+
+.header{
+    background-image: url(img/back1.jpg);
+    background-repeat: repeat;
+    width: 100%;
+    height: 100px;
+    position: relative;
+    /
+    /
+}
+
+.logo{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    margin-left: 15%;
+}
+.logoImg{
+    height: 100px;
+    width: 100px;
+}
+.nav{
+
+    position: relative;
+
+    width: 800px;
+    height: 100px;
+    margin-left: 30%;
+}
+
+.nav_link{
+    display: inline-block;
+    vertical-align: top;
+    margin-left:  60px;
+    color: #fff;
+    text-decoration: 0;
+    font-family: 'Great Vibes', cursive;
+    font-size: 50px;
+    margin-top: 25px;
+}
+
+
+.main{
+    background-repeat: repeat;
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.conteiner{
+    position: relative;
+    width: 70%;
+    height: 100%;
+    margin: auto;
+    background-image: url(img/backPurple6.jpg);
+}
+
+.top_text{
+    position: relative;
+    width: 100%;
+    height: 300px;
+}
+.paragraph_text{
+    color: #5230ae;
+    font-size: 200px;
+    text-align: center;
+    margin: auto;
+    padding-top: 50px;
+}
+.content_1{
+    margin-top:30px;
+    width: 100%;
+    height: 1250px;
+}
+.picture1{
+    position: relative;
+    width:750px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.img1{
+    position: absolute;
+    height: 400px;
+    margin-left: 118px;
+}
+.img2{
+    position: absolute;
+    height: 400px;
+    margin-left: 80px;
+}
+.img3{
+    position: absolute;
+    height: 400px;
+    margin-left: 118px;
+}
+.img4{
+    position: absolute;
+    height: 400px;
+    margin-left: 107px;
+}
+.img5{
+    position: absolute;
+    height: 400px;
+    margin-left: 37px;
+}
+.img6{
+    position: absolute;
+    height: 400px;
+    margin-left: 75px;
+}
+.img7{
+    position: absolute;
+    height: 400px;
+    margin-left: 187px;
+}
+.img8{
+    position: absolute;
+    height: 400px;
+    margin-left: 94px;
+}
+.img9{
+    position: absolute;
+    height: 400px;
+    margin-left: 89px;
+}
+.img10{
+    position: absolute;
+    height: 400px;
+    margin-left: 126px;
+}
+.info1{
+    width:1150px;
+    height: 825px;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.text_info1{
+    margin: auto;
+    font-size: 40px;
+}
+.footer{
+    margin-top: -40px;
+    width: 100%;
+    height: 500px;
+    position: relative;
+    background-image: url(img/back1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.footer_conteiner{
+    height: 100%;
+    width: 1500px;
+    margin: auto;
+    position: relative;
+}
+
+.footer_content{
+    height: 400px;
+    width: 100%;
+    position: absolute;
+    margin-top: 50px;
+
+}
+
+.footer_img{
+    float: right;
+    height: 400px;
+    width: 400px;
+}
+
+.footer_text{
+    font-size: 50px ;
+    color: #ffffff;
+}

@@ -1,0 +1,154 @@
+<?xml-stylesheet href="books.xsl" type="text/xsl"?>
+<catalog>
+    <painting id="000-01">
+        <code>000-01</code>
+        <author>Ivan Aivazovsky</author>
+        <name>Rainbow</name>
+        <picture>https://arthive.net/res/media/img/oy1200/work/d43/464475.webp</picture>
+        <genre>Seascape</genre>
+        <createdTime>1873</createdTime>
+        <material>Canvas</material>
+        <technique>Oil</technique>
+        <width>136</width>
+        <height>105</height>
+        <price>5000</price>
+        <quantity>2</quantity>
+        <description>During his long life the famous maritime painter Ivan Aivazovsky created several thousand canvases. With unwavering enthusiasm, the public welcomed the master's fresh works: peaceful landscapes of the Venetian Lagoon and the Bay of Naples, views of the sunny Crimea, the colourful Constantinople, the Egyptian pyramids in Giza and even the Niagara Falls. With remarkable ease, the artist successfully conveyed all states of the turbulent water elements - from placid calm of the sea to mind-shaking raging storms.</description>
+    </painting>
+    <painting id="000-02">
+        <code>000-02</code>
+        <author>Ivan Shishkin</author>
+        <name>Morning in a Pine Forest</name>
+        <picture>https://arthive.net/res/media/img/oy1000/work/3b2/382842.webp</picture>
+        <genre>Landscape</genre>
+        <createdTime>1889</createdTime>
+        <material>Canvas</material>
+        <technique>Oil</technique>
+        <width>213</width>
+        <height>139</height>
+        <price>4500</price>
+        <quantity>1</quantity>
+        <description>Ivan Shishkin’s “Morning in a Pine Forest” is one of the paintings that the public loves the most. The skill of a landscape painter and a minstrel of the Russian forest (as his contemporaries often called the artist) fully manifested itself in this work. The artist seems to invite us to join him and enter a forest untouched by man. The dense pine forest lives by its own laws. Big trees grow and die subject only to natural cycles. Once a storm uprooted a mighty pine tree. A family of bears are at ease on its broken trunk. Nobody can disturb the innocent play of these creatures. This group in the foreground attracts the most attention. Anyone who stops to gaze at the painting first looks at these hosts of the forest, and it seems that they are the main subject of the painting.</description>
+    </painting>
+    <painting id="000-03">
+        <code>000-03</code>
+        <author>Ilya Repin</author>
+        <name>Ivan the Terrible and His Son Ivan on 16 November 1581</name>
+        <picture>https://arthive.net/res/media/img/oy1200/work/f41/356477.webp</picture>
+        <genre>History painting</genre>
+        <createdTime>1885</createdTime>
+        <material>Canvas</material>
+        <technique>Oil</technique>
+        <width>254</width>
+        <height>199,5</height>
+        <quantity>3</quantity>
+        <price>4700</price>
+        <description>"Ivan the Terrible and His Son Ivan on 16 November 1581" is a historical painting created by the Russian artist Ilya Repin in 1885. The painting depicts a poignant and tragic scene where the Russian Tsar Ivan the Terrible is shown cradling his mortally wounded son, Ivan, after having struck him in a fit of rage. The tsar's face reflects the horror and remorse of his actions, while his dying son looks towards him with a mix of suffering and disbelief. This painting captures the intense emotional and psychological turmoil within the Russian ruler and his family. It is considered one of Repin's most powerful and emotionally charged works.</description>
+    </painting>
+    <painting id="000-04">
+        <code>000-04</code>
+        <author>Jan Matejko</author>
+        <name>Stanczyk</name>
+        <picture>https://arthive.net/res/media/img/oy800/work/e53/597688.webp</picture>
+        <genre>History painting</genre>
+        <createdTime>1862</createdTime>
+        <material>Canvas</material>
+        <technique>Oil</technique>
+        <width>120</width>
+        <height>88</height>
+        <price>2700</price>
+        <quantity>4</quantity>
+        <description>"Stańczyk" is a famous painting created by the Polish artist Jan Matejko in 1862. The painting depicts a historical figure named Stańczyk, a court jester, who is shown deep in thought and contemplation during a royal banquet. The jester's somber expression and reflective mood are in stark contrast to the merriment and revelry around him. This painting is known for its historical and political significance, as it is seen as a commentary on the turbulent times in Poland's history. Matejko's "Stańczyk" is considered one of the most iconic works of Polish art, symbolizing the nation's struggle and resilience in the face of adversity.</description>
+    </painting>
+    <painting id="000-05">
+        <code>000-05</code>
+        <author>Ilya Repin</author>
+        <name>Reply of the Zaporozhian Cossacks</name>
+        <picture>https://arthive.net/res/media/img/oy1000/work/e28/352452.webp</picture>
+        <genre>History painting</genre>
+        <createdTime>1891</createdTime>
+        <material>Canvas</material>
+        <technique>Oil</technique>
+        <width>358</width>
+        <height>203</height>
+        <price>7500</price>
+        <quantity>1</quantity>
+        <description>"The Reply of the Zaporozhian Cossacks" is a famous painting created by artist Ilya Repin in 1880-1891. The painting depicts a group of Cossacks composing a defiant and humorous reply to a letter from the Ottoman Sultan Mehmed IV, who had demanded their surrender. The Cossacks are shown in a rowdy and celebratory mood, crafting an irreverent and insulting response. The painting is known for its vibrant and detailed portrayal of the Cossack's boisterous camaraderie and their audacious spirit in the face of a powerful foe.</description>
+    </painting>
+    <painting id="000-06">
+        <code>000-06</code>
+        <author>Ivan Aivazovsky</author>
+        <name>The Ninth Wave</name>
+        <picture>https://arthive.net/res/media/img/oy1000/work/eae/329617.webp</picture>
+        <genre>Seascape</genre>
+        <createdTime>1850</createdTime>
+        <material>Canvas</material>
+        <technique>Oil</technique>
+        <width>332</width>
+        <height>221</height>
+        <price>6000</price>
+        <quantity>1</quantity>
+        <description>"The Ninth Wave" is a famous painting by the Russian artist Ivan Aivazovsky, completed in 1850. It depicts a dramatic and turbulent maritime scene during a storm, where a small group of survivors clings to a makeshift raft as they are tossed on the waves. The title "The Ninth Wave" refers to a maritime superstition that suggests that the ninth wave in a series of waves is the largest and most dangerous.Aivazovsky's masterful use of light and shadow and his ability to capture the power and chaos of the sea make this painting one of his most renowned works. It symbolizes the struggle of humanity against the forces of nature and is considered a masterpiece of 19th-century Russian art.</description>
+    </painting>
+    <painting id="000-07">
+        <code>000-07</code>
+        <author>Ivan Aivazovsky</author>
+        <name>Battle of Cesme at Night</name>
+        <picture>https://arthive.net/res/media/img/oy1800/work/580/243151.webp </picture>
+        <genre>Seascape, History painting</genre>
+        <createdTime>1848</createdTime>
+        <material>Canvas</material>
+        <technique>Oil</technique>
+        <width>183</width>
+        <height>193</height>
+        <price>4400</price>
+        <quantity>2</quantity>
+        <description>"Battle of Çesme at Night" is a historical painting created by the Russian artist Ivan Aivazovsky in 1848. The painting depicts a dramatic naval battle during the Russo-Turkish War of 1768-1774, specifically the Battle of Çesme that took place on the night of July 5-7, 1770. In the painting, the Russian fleet under Admiral Alexei Orlov engages the Ottoman fleet in the darkness of the night, with ships ablaze and the sea illuminated by the flames of the burning vessels.Aivazovsky's work is known for its skillful portrayal of the tumultuous sea and the chaotic nature of naval warfare. "Battle of Çesme at Night" is a powerful representation of the historical event and showcases the artist's ability to capture the dynamic and dramatic aspects of maritime battles.</description>
+    </painting>
+    <painting id="000-08">
+        <code>000-08</code>
+        <author>Ivan Aivazovsky</author>
+        <name>Black sea</name>
+        <picture>https://arthive.net/res/media/img/orig/work/41f/328068.webp</picture>
+        <genre>Seascape</genre>
+        <createdTime>1881</createdTime>
+        <material>Canvas</material>
+        <technique>Oil</technique>
+        <width>208</width>
+        <height>149</height>
+        <price>3300</price>
+        <quantity>4</quantity>
+        <description>Ivan Aivazovsky's "Black Sea" (1881) is a seascape painting that captures the beauty and grandeur of the Black Sea, a subject that the artist often explored in his work. In this particular painting, Aivazovsky skillfully portrays the sea's vast expanse, with rolling waves and a dramatic, colorful sky. The play of light on the water's surface and the reflection of the sky create a sense of luminosity and depth, showcasing Aivazovsky's mastery of marine painting. "Black Sea" is a testament to Aivazovsky's ability to capture the ever-changing and captivating nature of the sea, a theme that was a central element of his artistic career. </description>
+    </painting>
+    <painting id="000-09">
+        <code>000-09</code>
+        <author>Karl Bryullov</author>
+        <name>The Last Day of Pompeii</name>
+        <picture>https://arthive.net/res/media/img/oy1000/work/3c5/400542.webp</picture>
+        <genre>History painting</genre>
+        <createdTime>1833</createdTime>
+        <material>Canvas</material>
+        <technique>Oil</technique>
+        <width>651</width>
+        <height>456,5</height>
+        <price>6000</price>
+        <quantity>1</quantity>
+        <description>"The Last Day of Pompeii" is a famous historical painting created by the Russian artist Karl Bryullov between 1830 and 1833. The painting depicts the dramatic and catastrophic events leading to the destruction of the ancient Roman city of Pompeii during the eruption of Mount Vesuvius in 79 AD. The composition shows a vivid scene of panic, despair, and chaos as the residents of Pompeii attempt to escape the volcanic eruption's deadly fury. Bryullov's painting is known for its meticulous attention to detail and the emotional intensity of the characters, capturing the terror and suffering of the people in the midst of a natural disaster.</description>
+    </painting>
+    <painting id="000-10">
+        <code>000-10</code>
+        <author>Eugene Delacroix</author>
+        <name>Liberty Leading the People</name>
+        <picture>https://arthive.net/res/media/img/oy1200/work/417/452344.webp</picture>
+        <genre>History painting</genre>
+        <createdTime>1830</createdTime>
+        <material>Canvas</material>
+        <technique>Oil</technique>
+        <width>325</width>
+        <height>260</height>
+        <price>4400</price>
+        <quantity>1</quantity>
+        <description>
+"Liberty Leading the People" is an iconic painting by the French Romantic artist Eugène Delacroix, completed in 1830. The painting portrays the allegorical figure of Liberty as a woman leading a diverse group of people, including workers, students, and soldiers, over the barricades during the July Revolution of 1830 in France. Liberty is seen holding the French tricolor flag high as a symbol of freedom and revolution.The painting is a powerful and passionate depiction of the spirit of revolution, capturing the intense emotions and idealism of the time. It has become a symbol of the struggle for liberty and has been widely recognized as a representation of the French revolutionary spirit</description>
+    </painting>
+</catalog>
